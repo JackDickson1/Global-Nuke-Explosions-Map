@@ -15,10 +15,10 @@
     Symbols for the sites are scaled circles that increase in size with yeild of the explosions. 
     I converted the yeilds into tonnes only so that I could display them in using the circles. 
     Previously they were displayed in t, kt, mt. I chose to go with a orange/red color scheme over 
-    a simple black and white basemap. I think that this makes the circles stand out. I also used 
+    a simple world topo map. I think that this makes the circles stand out. I also used 
     opacity to allow the user to see through the circles. There are many circles that overlap so 
     the opacity is helpful when navigating the map. 
 
 ### Data Source
     The data source used in this map is a ArcGIS Online feature layer created by Damian Spangrud. 
-    The basemap is from Stadia Maps. 
+    The basemap is an ESRI basemap. 
